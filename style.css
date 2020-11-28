@@ -1,0 +1,21 @@
+h1{
+    background-color: lightgreen;
+}
+.puzzle{
+    display: flex;
+    margin: 30px;
+}
+.puzzle div{
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+}
+.puzzle div div{
+    background:black;
+    color: black;
+}
+input{
+    height: 27px;
+    width: 24px;
+    background: white;
+}
